@@ -35,6 +35,6 @@ class TestRegistration(unittest.TestCase):
     def tearDown(self) -> None:
         self.driver.quit()
 
-
+#test
 if __name__ == "__main__":
     unittest.main(verbosity=2)
